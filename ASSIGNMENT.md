@@ -1,6 +1,7 @@
 # Technology Task 1 & 2: Creating a Tutorial & Presentation
 
-Your group will write a tutorial for the special topic assigned to your group from Proposal #1.
+Your group will write a tutorial on the topic assigned to you.
+PLEASE READ THE ASSIGNMENT ON THE COURSE WEBSITE. This write-up is only a summary.
 
 ## Individual Assignment
 
@@ -30,7 +31,7 @@ The grading of your team's work will include the following criterion (amongst ot
 ## Submission
 <p><em>Individual submission</em>: There is no individual submission for this assignment. There is no peer evaluation to complete.</p>
 
-<p><em>Group submission</em>: The graders will retrieve your work (readme plus your solution) from your team's Github private repository provided for you under the course's organization cse3901-osu-2018su. All team member's work must eventually be merged into a final committed version in Git. The readme contains the names of each project manager and states what each team member specifically contributed to the final submission. For the latter, only report on contributions that made it into to the final solution. Clearly indicate which team members performed testing and to which portions of the solutions. Also include any instructions to the grader as to how to execute the code.</p>
+<p><em>Group submission</em>: The graders will retrieve your work (readme plus your solution) from your team's Github private repository provided for you under the course's organization cse3901-osu-2018au. All team member's work must eventually be merged into a final committed version in Git. The readme contains the names of each project manager and states what each team member specifically contributed to the final submission. For the latter, only report on contributions that made it into to the final solution. Clearly indicate which team members performed testing and to which portions of the solutions. Also include any instructions to the grader as to how to execute the code.</p>
 
 You will submit your project by simply creating a git tag called "tutorial_submission" and then pushing this new tag to your shared repository. (A tag is basically an immutable branch.)
 
