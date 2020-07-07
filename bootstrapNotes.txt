@@ -1,0 +1,26 @@
+Source: https://www.digitalocean.com/community/tutorials/how-to-add-bootstrap-to-a-ruby-on-rails-application
+
+-Bootsrap allows for styles in Ruby on Rails
+-Bootstrap is an HTML,CSSm and Javascript framework
+-Bootstrap allows interactions to become more engaging
+
+Source: https://medium.com/@frouster/bootstrap-with-ruby-on-rails-the-beginning-59c494d7a4f9
+
+-Bootstrap makes things look more interesting
+-ubuntu is required as well as ruby and rails
+
+source: https://www.youtube.com/watch?v=bn9arlhfaXc
+
+-bootstrap through multiple languages, can be done through rails
+-libraries in bootstrap
+-bootstrap has a website
+-Errors exist
+-Compilation errors
+
+Source: https://getbootstrap.com/docs/4.0/getting-started/introduction/
+
+-Developed mobile first (mobile, then scale up using CSS queries)
+-Bootstrap has multiple versions of their project
+
+
+
