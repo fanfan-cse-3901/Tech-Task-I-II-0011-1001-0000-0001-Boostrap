@@ -40,6 +40,42 @@ During the migration, developers need to identify both HTML and CSS for the elem
 * HTML5
 * CSS: https://www.w3schools.com/whatis/whatis_css.asp
 
+
+### Introduce Topics (w examples):
+* JavaScript
+  * Type of language
+  * Use
+  * example
+* HTML5
+  * Relation with XML
+  * Basic syntax
+  * Style
+  * Connection with CSS
+* CSS
+  * Use
+  * Example
+* Simple jQuery and Popper.js
+  * Why
+  * Tooltip
+  * use
+
+### Bootstrap:
+
+* Use
+* Integration
+* Functionality
+  * layout
+    * containers
+    * breakpoints
+    * z-index
+    * grids
+        * responsive classes, gutters, etc
+        * alignment
+    * content
+    * components
+    * utilities
+* Examples
+
 ## Amanda 
 
 ## Introduction to Bootstrap:
@@ -78,42 +114,6 @@ You need to link Bootstrap's CSS and JS files. It requires a containing element 
 The Bootstrap containers can be fixed or fluid. A fixed container has a fixed width. If the browser is resized, 
 its width will remain the same until at some threshold and shrink to its next width. On the other hand, a fluid
 container spans the full width of viewport, with it constantly changing to fit the browser.
-### Introduce Topics (w examples):
-* JavaScript
-  * Type of language
-  * Use
-  * example
-* HTML5
-  * Relation with XML
-  * Basic syntax
-  * Style
-  * Connection with CSS
-* CSS
-  * Use
-  * Example
-* Simple jQuery and Popper.js
-  * Why
-  * Tooltip
-  * use
-
-### Bootstrap:
-
-* Use
-* Integration
-* Functionality
-  * layout
-    * containers
-    * breakpoints
-    * z-index
-    * grids
-        * responsive classes, gutters, etc
-        * alignment
-    * content
-    * components
-    * utilities
-* Examples
-
-## Amanda
 
 ## Troy
 
