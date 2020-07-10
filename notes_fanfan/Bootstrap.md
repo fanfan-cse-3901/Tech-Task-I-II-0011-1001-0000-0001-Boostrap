@@ -19,5 +19,5 @@ During the migration, developers need to identify both HTML and CSS for the elem
   * Component
 * JavaScript
 * Precompiled Version
-  * Advantage of CDN
+  * Some popular JavaScript/CSS libraries, such as jQuery, are very common on the Internet. When a user is browsing one of the pages, it is very likely that he/she has already visited some other websites with the same jQuery library. Since the user's browser has been cached (if there is a cache with the same location of the same source, the browser will use the cache file directly, and will not load it again), therefore, it will indirectly increase the speed of visiting the website. [[See TTL for details]](https://developer.mozilla.org/en-US/docs/Glossary/TTL)
 * Themes
