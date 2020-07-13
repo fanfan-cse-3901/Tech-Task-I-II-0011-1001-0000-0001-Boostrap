@@ -16,13 +16,27 @@ During the migration, developers need to identify both HTML and CSS for the elem
 
 ### Solutions: Bootstrap
 
+A 12 columns Max, mobile first, fluid grid system.
+
+* Rows must be placed in a container (`.container` for fixed width, `.container-fluid` for full width)
+* 4 Class prefix for differnt size of screens (be responsive)
+  * Extra small devices Phones (<768px): `.col-xs-[num]`
+  * Small devices Tablets (≥768px): `.col-sm-[num]`
+  * Medium devices Desktops (≥992px): `.col-md-[num]`
+  * Large devices Desktops (≥1200px): `.col-lg-[num]`
+
+If a row is containg more than 12 columns, the extra columns will be treated another row.
+
 * CSS
   * Responsive design
-  * Component
+  * Utility (Color patterns, Spacing, Sizing, Flexbox)
+  * Components (Buttons, Progress, Cards)
 * JavaScript
 * Precompiled Version
   * Some popular JavaScript/CSS libraries, such as jQuery, are very common on the Internet. When a user is browsing one of the pages, it is very likely that he/she has already visited some other websites with the same jQuery library. Since the user's browser has been cached (if there is a cache with the same location of the same source, the browser will use the cache file directly, and will not load it again), therefore, it will indirectly increase the speed of visiting the website. [[See TTL for details]](https://developer.mozilla.org/en-US/docs/Glossary/TTL)
 * Themes
+  * Creates an unified communication skill
+  * Differnt color have their own meaning
 
 ## Kevin
 
